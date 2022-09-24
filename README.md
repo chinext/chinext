@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @chinext
-- 👀 I’m interested in PHP/Laravel, C/C++, React, VueJS, Java, Python, AI, Rust
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on C for software defined network
+- 👀 PHP/Laravel, C/C++, React, VueJS, Java, Python, AI
+- 👀 I’m interested in PHP/Laravel, C/C++, React, VueJS, Java, Python, AI, Rust, Electronics Design, VLSI
+- 🌱 I’m currently learning AI, Microelectronic, RISC-V
+- 💞️ I’m looking to collaborate on C for software defined network, AI for RISC-V Chip
 - 📫 How to reach me @chineduEjibendu
 
 <!---
